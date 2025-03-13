@@ -1,0 +1,49 @@
+{
+  "type": "component",
+  "name": "comp2",
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "JRH9Ft"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    }
+  ],
+  "variables": [
+    {
+      "name": "ggpet",
+      "type": "open-api",
+      "id": "open-api"
+    }
+  ],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": []
+}
